@@ -13,7 +13,7 @@ The upstream is abandoned, an this fork just publishes a [PR](https://github.com
 
 ## Install
 
-Install via [yarn][yarn]:
+Install via yarn:
 
 ```
 // package.json
