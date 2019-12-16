@@ -8,12 +8,21 @@
 A [Gulp][gulp] plugin for applying custom transformations to the contents of
 files.
 
+## This fork
+The upstream is abandoned, an this fork just publishes a [PR](https://github.com/mcmath/gulp-transform/pull/10) removing deprectated gulp-util dependency.
+
 ## Install
 
-Install via [npm][npm]:
+Install via [yarn][yarn]:
 
-```sh
-npm install --save-dev gulp gulp-transform
+```
+// package.json
+...
+    "gulp-pseudoconcat-js": "artemv/gulp-pseudoconcat-js#v1.3.0-pre.1",
+...
+```
+```
+yarn
 ```
 
 ## Usage
