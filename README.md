@@ -18,7 +18,7 @@ Install via yarn:
 ```
 // package.json
 ...
-    "gulp-pseudoconcat-js": "artemv/gulp-pseudoconcat-js#v1.3.0-pre.1",
+    "gulp-transform": "artemv/gulp-transform#v3.0.6-pre.1",
 ...
 ```
 ```
